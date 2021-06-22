@@ -1,0 +1,6 @@
+matic 7
+bnb 0.03
+vet 144
+wrx 5
+win 7500
+shib 750000
